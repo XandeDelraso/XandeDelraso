@@ -34,3 +34,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-del-raso-filho)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/XandeDelraso)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:xandefdelraso@hotmail.com)
+
+---
+
+![snake gif](https://github.com/XandeDelraso/XandeDelraso/blob/output/github-snake-dark.svg)
+
