@@ -5,7 +5,6 @@
 🚀 Always curious, always learning, and constantly improving my skills.  
 
 - 🔭 Currently working on backend development and API integrations  
-- 🌱 Learning **C#** and **.NET**, and starting my journey into **Frontend** and **Mobile Development**  
 - 🎯 Current focus: mastering clean code principles and improving software architecture skills  
 - 📫 You can reach me at: **xandefdelraso@hotmail.com**
 
