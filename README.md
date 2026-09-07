@@ -27,8 +27,8 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=XandeDelraso&show_icons=true&theme=dracula" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandeDelraso&layout=compact&theme=dracula" />
+  <img height="160em" src="https://github-readme-stats-eight-flax.vercel.app/api?username=XandeDelraso&show_icons=true&theme=dracula" />
+  <img height="160em" src="https://github-readme-stats-eight-flax.vercel.app/api/top-langs/?username=XandeDelraso&layout=compact&theme=dracula" />
 </div>
 
 ---
